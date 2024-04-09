@@ -1,0 +1,13 @@
+<div class="create-link-container">
+  <h1>URL Shortener For Telaverge</h1>
+  <form (ngSubmit)="createShortLink()">
+    <input type="text" placeholder="Enter Your URL" name="originalUrl" [(ngModel)]="originalUrl" required>
+    <button type="submit">Create Short URL</button>
+  </form>
+  <div *ngIf="shortLink" class="copy-con">
+    <p id="textToCopy">{{ shortLink }}</p>
+    <button (click)="copyText()">Copy</button>
+  </div>
+
+  
+</div>
