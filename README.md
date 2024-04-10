@@ -9,7 +9,7 @@
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [TypeScript](https://www.typescriptlang.org/)
 * [MySQL](https://dev.mysql.com/doc/)
-*  [Python](https://www.python.org/about/gettingstarted/)
+* [Python](https://www.python.org/about/gettingstarted/)
 
 
 ### ScreenShots -
@@ -21,6 +21,13 @@
 ![Screenshot (8)](https://github.com/akash-gupta0/url-shortner/assets/91329259/0dd0e328-4c8a-4971-8e7e-7d7d8e15034b)
 ![Screenshot (6)](https://github.com/akash-gupta0/url-shortner/assets/91329259/ca445861-9064-436a-a9b8-0e036f45e5eb)
 ![Screenshot (7)](https://github.com/akash-gupta0/url-shortner/assets/91329259/09f46d81-7950-417d-a1b6-b201b11a5665)
+
+
+### Live Demo -
+* [YouTube Link 1](https://www.youtube.com/watch?v=zlXEo1Vd0gw)
+* [YouTube Link 2](https://www.youtube.com/watch?v=Of4TCN3YLmM)
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
