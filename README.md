@@ -11,6 +11,15 @@
 * [MySQL](https://dev.mysql.com/doc/)
 * [Python](https://www.python.org/about/gettingstarted/)
 
+  ## Features
+  1.URL Shortening: Users can shorten long URLs, making them more manageable and easier to share.
+  
+  2.Link Analytics: The application provides analytics for shortened URLs, allowing users to track metrics such as clicks.
+  
+  3.User Dashboard: Users have access to a personalized dashboard where they can manage their shortened URLs, view analytics data.
+  
+  4.Secure Authentication: The application implements a robust authentication mechanism, ensuring that user registration and login processes are secure and protected against unauthorized access.
+
 
 ### ScreenShots -
 
@@ -46,14 +55,42 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/akash-gupta0/url-shortner
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
+Here is a step by step guide to set this project up on your local environment!
+
+**1. Clone the Repository**
+
+Open a terminal or command prompt and navigate to the directory where you want to clone the repository. 
+
+Run the following command
+
+Using HTTPS
+
+    $ https://github.com/akash-gupta0/url-shortner.git
+
+
+**2. Navigate to the Project Directory**
+
+Change your working directory to the project folder. 
+
+Run the following command
+
+    $ cd url-shortner
+
+**3. Install Dependencies**
+
+Inside the project folder, install the required dependencies using npm. 
+
+Run the following command
+
+    $ npm install
+
+**4. Run the Development Server**
+
+Start the development server to run the React application locally. 
+
+Run the following command
+
+    $ npm start
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
